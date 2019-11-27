@@ -1,6 +1,6 @@
 The goal of this project is to provide a way to discover the location of every charge point across all networks and operators by maintaining a register of federated open [OCPI Location module](https://github.com/ocpi/ocpi/blob/master/mod_locations.asciidoc) API implementations.
 
-[https://char-gy.github.io/ocpi-register/register.json](https://char-gy.github.io/ocpi-register/register.json)
+[https://ocpi-register.github.io/ocpi-register/register.json](https://ocpi-register.github.io/ocpi-register/register.json)
 
 ## Why
 
