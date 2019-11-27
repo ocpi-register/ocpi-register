@@ -15,3 +15,7 @@ So far the industry has been unable provide a sustainable and reliable central r
 ## How to contribute
 
 Create an [issue](https://github.com/char-gy/ocpi-register/issues) or a [pull request](https://github.com/char-gy/ocpi-register/pulls).
+
+## License
+
+This project is under the [MIT license](LICENSE).
