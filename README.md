@@ -4,4 +4,4 @@ An open reigster of active OCPI (Open Charge Point Interface) implementations.
 
 ## How to contribute
 
-Create an issue or a pull request.
+Create an [issue](https://github.com/char-gy/ocpi-register/issues) or a [pull request](https://github.com/char-gy/ocpi-register/pulls).
