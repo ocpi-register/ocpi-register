@@ -1,1 +1,8 @@
-{}
+{
+  "data": [
+    {
+      "name": "char.gy",
+      "locations_endpoint": "https://char.gy/ocpi/cpo/2.1.1/locations.json"
+    }
+  ]
+}
