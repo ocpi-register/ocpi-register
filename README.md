@@ -18,4 +18,4 @@ Create an [issue](https://github.com/char-gy/ocpi-register/issues) or a [pull re
 
 ## License
 
-This project is under the [MIT license](LICENSE).
+This project is under the [MIT license](https://github.com/ocpi-register/ocpi-register/blob/master/LICENSE).
