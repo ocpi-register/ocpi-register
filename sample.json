@@ -1,0 +1,39 @@
+{
+  "id":"84011418-9454-4590-bcc0-4b264e0103dd",
+  "type":"ON_STREET",
+  "address":"116 Warner Road",
+  "city":"London ",
+  "postal_code":"SE5 9HQ",
+  "country":"GBR",
+  "coordinates":{
+     "latitude":"51.4719543",
+     "longitude":"-0.0985952"
+  },
+  "evses":[
+     {
+        "uid":"5b5c44b9-4eb8-4cbe-a32e-e87ee57ab1a6",
+        "evse_id":"GB*CGY*E*00071",
+        "status":"AVAILABLE",
+        "connectors":[
+           {
+              "id":"1",
+              "standard":"IEC_62196_T2",
+              "format":"SOCKET",
+              "power_type":"AC_1_PHASE",
+              "voltage":230,
+              "amperage":23,
+              "terms_and_conditions":"https://char.gy/terms-of-use",
+              "last_updated":"2019-11-28T18:04:33Z"
+           }
+        ],
+        "physical_reference":"00071",
+        "last_updated":"2019-11-28T18:04:33Z"
+     }
+  ],
+  "operator":{
+     "name":"char.gy",
+     "website":"https://char.gy"
+  },
+  "time_zone":"Europe/London",
+  "last_updated":"2019-11-28T18:04:33Z"
+}
