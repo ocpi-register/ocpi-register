@@ -12,6 +12,10 @@ So far the industry has been unable to provide a sustainable and reliable centra
 
 *OCPI* - The module approach allows an operator to implement the minimum requirement - static location data - without building out the dynamic data or roaming aspects, which keeps costs low for small operators and allows businesses to avoid features incompatible with their strategy.
 
+## What a single OCPI location looks like
+
+![Location sample](sample.png)
+
 ## How to contribute
 
 Create an [issue](https://github.com/char-gy/ocpi-register/issues) or a [pull request](https://github.com/char-gy/ocpi-register/pulls).
