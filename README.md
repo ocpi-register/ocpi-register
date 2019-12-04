@@ -1,12 +1,17 @@
-The goal of this project is to provide a way to discover the location of every charge point across all networks and operators by maintaining a register of federated open [OCPI Location module](https://github.com/ocpi/ocpi/blob/master/mod_locations.asciidoc) API implementations.
+The goal of this project is to provide a way to discover the location of every electric vehicle charge point across all networks and operators.
 
-[https://ocpi-register.github.io/ocpi-register/register.json](https://ocpi-register.github.io/ocpi-register/register.json)
+**It is essentially a collection of links to lists of charge points in a common format.**
+
+More specifically, it's a collection of federated open [OCPI Location module](https://github.com/ocpi/ocpi/blob/master/mod_locations.asciidoc) API implementations.
+
+[Download](https://ocpi-register.github.io/ocpi-register/register.json)
 
 ## Why
 
 So far the industry has been unable to provide a sustainable and reliable central repository of charge points. The source of funding, the scope of the service, conflicting corporate interests, and data formats have slowed progress.
 
-*A federated model* - A [federated architecture](https://en.wikipedia.org/wiki/Federated_architecture) distributes the complexity and therefore the cost.
+*A federated model* - A [federated architecture](https://en.wikipedia.org/wiki/Federated_architecture) means that the operators run
+their own APIs. This means a single source of funding isn't required to keep it running, and it also means there isn't a single point of failure.
 
 *Open locations as a minimum* - The minimum requirement to use a charge point is to know where and what it is. Not even dynamic status/occupancy data is an absolute requirement. Other modules provided by an operator may require authorisation, but the locations must be available without authorisation.
 
