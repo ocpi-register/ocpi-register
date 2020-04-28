@@ -17,6 +17,10 @@ their own APIs. This means a single source of funding isn't required to keep it 
 
 *OCPI* - The module approach allows an operator to implement the minimum requirement - static location data - without building out the dynamic data or roaming aspects, which keeps costs low for small operators and allows businesses to avoid features incompatible with their strategy.
 
+## What the architecture looks like
+
+![Architecture](ocpi-register-architecture.png)
+
 ## What a single OCPI location looks like
 
 ![Location sample](sample.png)
